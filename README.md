@@ -11,4 +11,4 @@ It takes 3 parameters
 `Os` File managing (comes pre-installed with python)
 
 
-### Made with love and Pycharm community
+### Made with love and Pycharm (community version)
