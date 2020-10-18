@@ -7,7 +7,11 @@ It takes 3 parameters
 
 ## Requierements
 `Click` ´Command Line Interface Kit (CLIK)´ [Click documentation](https://click.palletsprojects.com/en/7.x/)
+
+
 `Pillow` Resizes images
+
+
 `Os` File managing (comes pre-installed with python)
 
 
